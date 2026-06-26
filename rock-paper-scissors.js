@@ -22,7 +22,7 @@ function getComputerChoice() {
 
 //获取人类的选择
 function getHumanChoice() {
-  return (answer = prompt("What is your choice: "));
+  return (answer = prompt("Please enter one of Rock, Paper, or Scissors : "));
 }
 
 //单轮游戏逻辑
